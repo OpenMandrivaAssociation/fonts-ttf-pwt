@@ -1,4 +1,5 @@
 %define pkgname pwtfont
+%define distsuffix edm
 
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: fonts-ttf-pwt

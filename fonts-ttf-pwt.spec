@@ -57,3 +57,16 @@ fi
 %{_datadir}/fonts/TTF/pwt/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-pwt:pri=50
 
+
+
+%changelog
+* Mon Oct 10 2011 Александр Казанцев <kazancas@mandriva.org> 0.5-1edm2012.0
++ Revision: 704075
+- imported package fonts-ttf-pwt
+
+  + Sergey Zhemoitel <serg@mandriva.org>
+    - imported package fonts-ttf-pwt
+
+
+* Thu Jun 17 2010 Alexander Kazancev <kazancas@mandriva.ru>
+- Initial build.

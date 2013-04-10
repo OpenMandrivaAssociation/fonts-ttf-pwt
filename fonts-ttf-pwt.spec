@@ -15,7 +15,8 @@ BuildRequires: freetype-tools
 
 %description
 The PingWin Typography (PWT) fonts are intended to be replacements for most 
-commonly used fonts on Microsoft systems: Tahoma, Arial, Courier, Verdana, Times New Roman
+commonly used fonts on Microsoft systems: Tahoma, Arial, Courier, Verdana,
+Times New Roman
 
 %prep
 %setup -q -n %{pkgname}

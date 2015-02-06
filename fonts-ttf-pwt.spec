@@ -3,7 +3,7 @@
 Summary: Fonts to replace commonly used Microsoft Windows Fonts
 Name: fonts-ttf-pwt
 Version: 0.5
-Release: 2
+Release: 3
 License: open
 Group: System/Fonts/True type
 URL: http://www.pingwinsoft.ru/system/uploads/7/original/fonts_test.zip?1276003553

@@ -6,7 +6,7 @@ Version: 0.5
 Release: 3
 License: open
 Group: System/Fonts/True type
-URL: http://www.pingwinsoft.ru/system/uploads/7/original/fonts_test.zip?1276003553
+URL: https://www.pingwinsoft.ru/system/uploads/7/original/fonts_test.zip?1276003553
 Source0: %{pkgname}.tar.bz2
 BuildArch: noarch
 BuildRequires: freetype-tools
